@@ -43,7 +43,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/sandro-sole/arduino-nRF5"
+      "url": "https://github.com/sandro-sole/arduino-nRF5"
     },
     "framework-mbed": {
       "type": "framework",
